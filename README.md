@@ -59,5 +59,4 @@ Building robust IoT platforms and cloud-native systems at **Semtech (ex-Sierra W
 
 ---
 
-*Always open to interesting conversations about IoT, cloud architecture, or TypeScript.*  
-📬 prmm95@gmail.com
+
