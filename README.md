@@ -1,5 +1,4 @@
 **Senior Full-Stack Engineer** based in Toulouse, France 🇫🇷  
-Building robust IoT platforms and cloud-native systems at **Semtech (ex-Sierra Wireless)**.
 
 ---
 
@@ -37,7 +36,8 @@ Building robust IoT platforms and cloud-native systems at **Semtech (ex-Sierra W
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2024 – Present | Expert Full-Stack & Ops Engineer | Semtech (ex-Sierra Wireless) |
+| 2026 – Present | Software Engineer | Sinch Mailjet |
+| 2024 – 2026 | Expert Full-Stack & Ops Engineer | Semtech (ex-Sierra Wireless) |
 | 2022 – 2024 | Senior Full-Stack Engineer | Sierra Wireless |
 | 2018 – 2022 | Full-Stack Engineer | Sierra Wireless (via Néo-Soft) |
 | 2018 | Full-Stack Consultant | Lakebolt Research |
